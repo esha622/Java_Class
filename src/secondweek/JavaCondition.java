@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class JavaCondition {
     public static void main(String[] args){
         //check given number odd or even
-        /*Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = sc.nextInt();
 
@@ -17,7 +17,7 @@ public class JavaCondition {
             System.out.println("Odd");
         }
 
-        if(num == 1){
+        /*if(num == 1){
             System.out.println("Sunday");
         }
         else if(num == 2){
@@ -40,7 +40,7 @@ public class JavaCondition {
         }
         else{
             System.out.println("There are only 7 days a week");
-        }*/
+        }
 
         //write a code to check the given user credential is valid or not
         //given by user
@@ -58,6 +58,6 @@ public class JavaCondition {
         }
         else{
             System.out.println("Not valid");
-        }
+        }*/
     }
 }
