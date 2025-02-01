@@ -13,6 +13,7 @@ public class MethodFunction {
             double[] itemPrices = {1.2, 2.5, 5.7, 8.9};
             int discount = 10;
             double res = calculateTotal(itemPrices, discount);
-            System.out.println("Total after discount: " + res);
+            System.out.println("Total after discount: " + res);   //Total after discount: 16.47
+
         }
-        }
+}
