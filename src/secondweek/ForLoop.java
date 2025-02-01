@@ -6,7 +6,7 @@ public class ForLoop {
         /*int num = 5;
         for(int i=1; i<=10; i++){
             System.out.println("Result= "+ num * i);
-        }*/
+        }
 
 //Prime numbers:
         /*int num = 3;
