@@ -49,7 +49,6 @@ public class LibraryManagementSystem {
     public static void main(String[] args) {
         Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald");
 
-        // Try to lend the book
         book1.lend(); // Should succeed
         book1.lend(); // Should fail (already borrowed)
 

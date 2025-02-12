@@ -27,7 +27,7 @@ class Teacher {
 
 public class OOPJava {
     public static void main(String[] args) {
-        /*Dog dogA= new Dog(); //"new" keyboard creates an object
+        Dog dogA= new Dog(); //"new" keyboard creates an object
         dogA.age = 3;
         dogA.breed = "breed a";
         dogA.size = 45;
@@ -37,7 +37,7 @@ public class OOPJava {
         dogB.age = 6;
         dogB.breed = "breed b";
         dogB.size = 100;
-        dogB.color = "white";*/
+        dogB.color = "white";
 
         Teacher t1 = new Teacher();   //object
         t1.age = 30;

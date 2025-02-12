@@ -45,7 +45,6 @@ class User{
 
 public class Constructor {
     public static void main(String[] args) {
-        //default constructor
         Teachers t1 = new Teachers("Sohee", 30, "Dance");
         //t1.printInfo();
 

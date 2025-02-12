@@ -14,10 +14,6 @@ class AdminUser extends User{
     AdminUser(){
         System.out.println("Admin user constructor");
     }
-    /*@Override
-    void auth(){
-        System.out.println("Auth user");
-    }*/
     @Override
     void auth(){
         System.out.println("User Authentication");
@@ -25,9 +21,6 @@ class AdminUser extends User{
 }
 interface Vehicle{
     public void run();
-    //public static void horn(){  //static to print the certain defined things only where override doesn't works
-      //  System.out.println("Horn On");
-    //}
     public void horn();
 }
 
