@@ -32,8 +32,6 @@ public class EmployeePay {
             // Notify the user if the job role is invalid
             System.out.println("Invalid job role. Please enter a valid job role from the list.");
         }
-
-        // Close the scanner
         scanner.close();
     }
 }
