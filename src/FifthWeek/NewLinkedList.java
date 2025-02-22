@@ -13,7 +13,7 @@ public class NewLinkedList {
         cars.add("Ford");
         cars.addFirst("Tesla");
         cars.addLast("Neon");
-        cars.add(2,"Toyoto");
+        cars.add(2,"Toyota");
         System.out.println(cars);
 
         cars.removeFirst();

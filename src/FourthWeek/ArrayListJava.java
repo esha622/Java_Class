@@ -20,6 +20,13 @@ public class ArrayListJava {
         for(String name:names){
             System.out.println(names);
         }
+
+        System.out.println(names);
+        Collections.sort(names);
+    }
+}
+
+
         /*for(int i=0; i<names.size(); i++){
 
         }*/
@@ -45,8 +52,5 @@ public class ArrayListJava {
 
         // Print the minimum value
         System.out.println("The minimum value is: " + min);}*/
-        System.out.println(names);
-        Collections.sort(names); //ascending order
+         //ascending order
 
-    }
-}

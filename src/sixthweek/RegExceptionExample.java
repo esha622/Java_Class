@@ -17,6 +17,6 @@ public class RegExceptionExample {
 
         String sentence = "College contact number 938583780";
         String replacedSentence = sentence.replaceAll("\\d", "@");
-        System.out.println("New Sentence= " + replacedSentence);  //replace all the digits with the provided sign
+        System.out.println("New Sentence= " + replacedSentence);
     }
 }
