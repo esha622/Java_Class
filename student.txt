@@ -1,0 +1,4 @@
+Name: Sohee 
+Subject: Math 
+Practical Marks: 12 
+Theory marks: 20
